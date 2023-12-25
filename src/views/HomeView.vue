@@ -107,34 +107,28 @@
             <div class="col-lg-6">
               <h3 class="resume-title">Professional Experience</h3>
               <div class="resume-item">
-                <h4>Lead Full Stack Developer</h4>
-                <h5>2023 - Present</h5>
+                <h4>Full Stack Developer</h4>
+                <h5>2022 - Present</h5>
                 <p><em>Earl Owen Co., Carrollton, TX </em></p>
                 <p>
                   <ul>
-                    <li>Lead software project design and implementation from beginning to end, while collaborating closely with management and departmental
-                      end users in an agile environment.</li>
-                    <li>Developing an in-house reactive driver portal application, utilizing PHP, Laravel, and Vue.js, that will reduce user error and improve
-                      efficiency for proof of deliveries, product refusals, returns, and collection tracking.</li>
-                    <li>Experience with multiple design patterns, including Factory pattern and Builder pattern, ensuring scalability and maintainability of
-                      codebases.</li>
-                    <li>Optimize and review SQL queries across MSS databases for multiple applications that interact with the company’s ERP to improve system
-                      reliability and performance.</li>
+                    <li>Play a key role in the software development lifecycle of B2B e-commerce sites and API integrations.</li>
+                    <li>Streamline the purchase experience for specialized product kits by integrating multiple 3rd party systems using Laravel and PHP.</li>
+                    <li>Developed an in-house mobile delivery driver portal to automate the processes of proof of delivery, refusals, returns, and collection.</li>
+                    <li>Database administrator of SQL Server, MySQL, and Elastic databases with responsibility of optimizing queries from a 3rd party ERP system.</li>
                     <li>Mentor software engineers to encourage them to develop and deploy high-quality code and applications.</li>
-                    <li>Owner of multiple MSS, MySQL, and Elastic databases.</li>
                   </ul>
                 </p>
               </div>
               <div class="resume-item">
                 <h4>Jr. Full Stack Developer</h4>
-                <h5>2022 - 2023</h5>
+                <h5>2021 - 2022</h5>
                 <p><em>Earl Owen Co., Carrollton, TX</em></p>
                 <p>
                   <ul>
-                    <li>Automated daily delivery route creation for 60+ routes and enabled paperless submission and tracking for proof of deliveries, refusals,
-                      and returns by integrating the company’s ERP system and importing invoice information to a 3rd party application using API requests.</li>
-                    <li>Utilized Samsara and ADP APIs to automate the recording of drivers’ hours of service, removing the need for drivers to clock in via
-                      multiple apps.</li>
+                    <li>Spear-headed integration of automating truck routing by gaining deep knowledge of 3rd party APIs and the ERP. Created ability for drivers to
+                      create Proof of Delivery, Refusals, and Returns tracking eliminating the need for a supervisor manually entering 325+ stops into samsara for 65+ routes across 4 states.</li>
+                    <li>Utilized multiple APIs to integrate communication to automate recording of driver hours of service between Samsara API and ADP API.</li>
                     <li>Worked with our product data team to enhance automation and abilities of importing and relating product data.</li>
                   </ul>
                 </p>
@@ -145,10 +139,11 @@
                 <p><em>Samsung Austin Semiconductor, Carrollton, TX</em></p>
                 <p>
                   <ul>
-                    <li>Developed, tested, and designed a ticketing application for engineering requests using Vue.js, PHP in Laravel's MVC framework. Saving
-                      engineers on average 30 minutes of work time by automating the data-gathering process.</li>
+                    <li>•	Developed, tested, and designed a ticketing application for engineering requests using Vue.js, PHP in Laravel's MVC framework.
+                      Saving 15+ hours weekly of engineering time by automating the data gathering process and curating it for approval.</li>
                     <li>Designed back-end table schema and project specification before coding began, reducing the number of modifications required during the
                       development process.</li>
+                    <li>Perform user acceptance testing on application to ensure updates on production server are running smoothly.</li>
                     <li>Prioritized customer requests and implemented project improvements to increase customer satisfaction.</li>
                   </ul>
                 </p>
